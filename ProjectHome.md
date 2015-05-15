@@ -1,0 +1,1 @@
+Rotery Encoder using Magnatec Sensor
